@@ -3,14 +3,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
 <h3 align="center">modernBank spa</h3>
-
   <p align="center">
-    an spa created from a figma design.
+    an spa created from a figma design
     <br />
   </p>
 </div>
@@ -50,7 +45,7 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+aj gonzales - [[@twitter_handle](https://twitter.com/twitter_handle)](https://twitter.com/_ajgonzales) - email@email_client.com
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
