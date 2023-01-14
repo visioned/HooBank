@@ -45,10 +45,10 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 <!-- CONTACT -->
 ## Contact
 
-aj gonzales - [[@twitter_handle](https://twitter.com/twitter_handle)](https://twitter.com/_ajgonzales) - email@email_client.com
+aj gonzales - [[@_ajgonzales](https://twitter.com/twitter_handle)](https://twitter.com/_ajgonzales) - email@email_client.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
+<!-- Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+ -->
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
