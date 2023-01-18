@@ -39,4 +39,4 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![React][React.js]][React-url]
+* React.js
