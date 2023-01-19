@@ -37,5 +37,5 @@ Exploring single page landings. Found a great Figma file and designed out from t
 ### Built With
 * Vite.js
 * React
-* Figma // check out the Figma file <a href="[https://www.figma.com/file/b1I1nJ0q76mcKZ23FVbPqm/gpt3?node-id=0%3A15&t=kXZI3aqoNFeMWwdE-1](https://www.figma.com/file/WnoAGy24iwoRnJ79m5MgXL/HooBank?node-id=0%3A1&t=RzWYc0RMa2q9ovLK-1)">here</a> 
+* Figma // check out the Figma file <a href="https://www.figma.com/file/WnoAGy24iwoRnJ79m5MgXL/HooBank?node-id=0%3A1&t=RzWYc0RMa2q9ovLK-1">here</a> 
 * Vercel
