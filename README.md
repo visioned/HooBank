@@ -33,7 +33,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Found a great Figma file and designed out from that and things are great when designs are this way... hella speeds up production.
+Found a great design file to work with. Production is hella easy like this. 😍
 
 ### Built With
 * Vite.js
