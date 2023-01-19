@@ -6,9 +6,9 @@
     <img src="images/splash2.jpg" alt="Splash" width="400" height="400">
 </div>
 <div align="center">
-<h3 align="center">Coral Data</h3>
+<h3 align="center">GPT-3 Landing</h3>
   <p align="center">
-    SPA built in React from a Figma design
+    Single Page Landing
     <br />
   </p>
 </div>
@@ -37,4 +37,4 @@ Exploring single page landings.
 ### Built With
 
 * React
-* Figma
+* <a href="https://www.figma.com/file/b1I1nJ0q76mcKZ23FVbPqm/gpt3?node-id=0%3A15&t=kXZI3aqoNFeMWwdE-1">Figma</a> 
