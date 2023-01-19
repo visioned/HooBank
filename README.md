@@ -2,7 +2,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img href="https://imgur.com/zEZGfmB" alt="Splash" width="800" height="800">
+    <img src="/images/coralsplash.jpg" alt="Splash" width="400" height="400">
+    <img src="/images/coralsplash2.jpg" alt="Splash" width="400" height="400">
 <div align="center">
 <h3 align="center">modernBank spa</h3>
   <p align="center">
