@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 <!-- PROJECT LOGO -->
 <br />
-<div align="center">
+<div align="center space-between">
     <img src="images/hoobanksplash.png" alt="Splash" width="600" height="400">
     <img src="images/hoobanksplashmobile.jpg" alt="Splash" width="250" height="400">
 </div>
