@@ -35,6 +35,6 @@
 Exploring single page landings.
 
 ### Built With
-
+* Vite.js
 * React
 * Figma // check out the Figma file <a href="https://www.figma.com/file/b1I1nJ0q76mcKZ23FVbPqm/gpt3?node-id=0%3A15&t=kXZI3aqoNFeMWwdE-1">here</a> 
