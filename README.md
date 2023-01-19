@@ -33,7 +33,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Exploring single page landings. Found a great Figma file and designed out from that and things are great when designs are this way... Speeds up procudtion hella.
+Found a great Figma file and designed out from that and things are great when designs are this way... hella speeds up production.
 
 ### Built With
 * Vite.js
