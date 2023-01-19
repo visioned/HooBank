@@ -2,8 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="images/splash.jpg" alt="Splash" width="400" height="400">
-    <img src="images/splash2.jpg" alt="Splash" width="400" height="400">
+    <img src="images/gpt-3splash.jpg" alt="Splash" width="400" height="400">
 </div>
 <div align="center">
 <h3 align="center">HooBank</h3>
