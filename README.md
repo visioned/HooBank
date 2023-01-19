@@ -3,6 +3,7 @@
 <br />
 <div align="center">
     <img src="images/hoobanksplash.png" alt="Splash" width="600" height="400">
+    &nbsp;
     <img src="images/hoobanksplashmobile.jpg" alt="Splash" width="200" height="400">
 </div>
 <div align="center">
