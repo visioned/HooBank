@@ -8,7 +8,7 @@
 <div align="center">
 <h3 align="center">GPT-3 Landing</h3>
   <p align="center">
-    Single Page Landing
+    HooBank // Single Page Landing
     <br />
   </p>
 </div>
@@ -32,7 +32,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Exploring single page landings.
+Exploring single page landings. Found a great Figma file and designed out from that and things are great when designs are this way... Speeds up procudtion hella.
 
 ### Built With
 * Vite.js
