@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="images/gpt-3splash.jpg" alt="Splash" width="400" height="400">
+    <img src="images/hoobanksplash.png" alt="Splash" width="400" height="400">
 </div>
 <div align="center">
 <h3 align="center">HooBank</h3>
