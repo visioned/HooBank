@@ -6,7 +6,7 @@
     <img src="images/splash2.jpg" alt="Splash" width="400" height="400">
 </div>
 <div align="center">
-<h3 align="center">GPT-3 Landing</h3>
+<h3 align="center">HooBank</h3>
   <p align="center">
     HooBank // Single Page Landing
     <br />
