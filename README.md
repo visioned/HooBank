@@ -2,12 +2,13 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="/images/coralsplash.jpg" alt="Splash" width="400" height="400">
-    <img src="/images/coralsplash2.jpg" alt="Splash" width="400" height="400">
+    <img src="images/splash.jpg" alt="Splash" width="400" height="400">
+    <img src="images/splash2.jpg" alt="Splash" width="400" height="400">
+</div>
 <div align="center">
-<h3 align="center">modernBank spa</h3>
+<h3 align="center">Coral Data</h3>
   <p align="center">
-    an spa created from a figma design
+    SPA built in React from a Figma design
     <br />
   </p>
 </div>
@@ -24,9 +25,6 @@
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#contact">Contact</a>
-    </li>
   </ol>
 </details>
 
@@ -34,12 +32,9 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://imgur.com/zEZGfmB)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
-
+Exploring single page landings.
 
 ### Built With
 
-* React.js
+* React
+* Figma
