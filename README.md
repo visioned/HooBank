@@ -3,10 +3,8 @@
 <br />
 <div align="center">
     <img src="images/hoobanksplash.png" alt="Splash" width="600" height="400">
-    Desktop
     &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
     <img src="images/hoobanksplashmobile.jpg" alt="Splash" width="200" height="400">
-    Mobile
 </div>
 <div align="center">
 <h3 align="center">HooBank</h3>
